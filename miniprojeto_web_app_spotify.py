@@ -1,7 +1,6 @@
 import os
 import requests
 from requests.auth import HTTPBasicAuth
-from pprint import pprint
 import dotenv
 import streamlit as st
 
